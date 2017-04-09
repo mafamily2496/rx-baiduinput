@@ -1,80 +1,80 @@
 <prescriptions xmlns="http://greenify.github.io/schemas/prescription/v2">
-	<prescription type="service" package="com.baidu.input" class="com.baidu.acs.service.AcsService">
+	<prescription type="service" package="com.baidu.input" sender="any" class="com.baidu.acs.service.AcsService">
  	</prescription>
-	<prescription type="service" package="com.baidu.input" class="com.baidu.input.AutoBackIntentService">
+	<prescription type="service" package="com.baidu.input" sender="any" class="com.baidu.input.AutoBackIntentService">
  	</prescription>
-	<prescription type="service" package="com.baidu.input" class="com.tencent.tinker.lib.service.DefaultTinkerResultService">
+	<prescription type="service" package="com.baidu.input" sender="any" class="com.tencent.tinker.lib.service.DefaultTinkerResultService">
  	</prescription>
-	<prescription type="service" package="com.baidu.input" class="com.baidu.input.switchguide.GuideService">
+	<prescription type="service" package="com.baidu.input" sender="any" class="com.baidu.input.switchguide.GuideService">
  	</prescription>
-	<prescription type="service" package="com.baidu.input" class="com.baidu.hotpatch.HotPatchResultService">
+	<prescription type="service" package="com.baidu.input" sender="any" class="com.baidu.hotpatch.HotPatchResultService">
  	</prescription>
-	<prescription type="service" package="com.baidu.input" class="com.baidu.input.ime.event.ImeForWebService">
+	<prescription type="service" package="com.baidu.input" sender="any" class="com.baidu.input.ime.event.ImeForWebService">
  	</prescription>
-	<prescription type="service" package="com.baidu.input" class="com.baidu.input.ImeIntentService">
+	<prescription type="service" package="com.baidu.input" sender="any" class="com.baidu.input.ImeIntentService">
  	</prescription>
-	<prescription type="service" package="com.baidu.input" class="com.baidu.megapp.proxy.service.IntentServiceProxy1">
+	<prescription type="service" package="com.baidu.input" sender="any" class="com.baidu.megapp.proxy.service.IntentServiceProxy1">
  	</prescription>
-	<prescription type="service" package="com.baidu.input" class="com.baidu.megapp.proxy.service.IntentServiceProxy10">
+	<prescription type="service" package="com.baidu.input" sender="any" class="com.baidu.megapp.proxy.service.IntentServiceProxy10">
  	</prescription>
-	<prescription type="service" package="com.baidu.input" class="com.baidu.megapp.proxy.service.IntentServiceProxy2">
+	<prescription type="service" package="com.baidu.input" sender="any" class="com.baidu.megapp.proxy.service.IntentServiceProxy2">
  	</prescription>
-	<prescription type="service" package="com.baidu.input" class="com.baidu.megapp.proxy.service.IntentServiceProxy3">
+	<prescription type="service" package="com.baidu.input" sender="any" class="com.baidu.megapp.proxy.service.IntentServiceProxy3">
  	</prescription>
-	<prescription type="service" package="com.baidu.input" class="com.baidu.megapp.proxy.service.IntentServiceProxy4">
+	<prescription type="service" package="com.baidu.input" sender="any" class="com.baidu.megapp.proxy.service.IntentServiceProxy4">
  	</prescription>
-	<prescription type="service" package="com.baidu.input" class="com.baidu.megapp.proxy.service.IntentServiceProxy5">
+	<prescription type="service" package="com.baidu.input" sender="any" class="com.baidu.megapp.proxy.service.IntentServiceProxy5">
  	</prescription>
-	<prescription type="service" package="com.baidu.input" class="com.baidu.megapp.proxy.service.IntentServiceProxy6">
+	<prescription type="service" package="com.baidu.input" sender="any" class="com.baidu.megapp.proxy.service.IntentServiceProxy6">
  	</prescription>
-	<prescription type="service" package="com.baidu.input" class="com.baidu.megapp.proxy.service.IntentServiceProxy7">
+	<prescription type="service" package="com.baidu.input" sender="any" class="com.baidu.megapp.proxy.service.IntentServiceProxy7">
  	</prescription>
-	<prescription type="service" package="com.baidu.input" class="com.baidu.megapp.proxy.service.IntentServiceProxy8">
+	<prescription type="service" package="com.baidu.input" sender="any" class="com.baidu.megapp.proxy.service.IntentServiceProxy8">
  	</prescription>
-	<prescription type="service" package="com.baidu.input" class="com.baidu.megapp.proxy.service.IntentServiceProxy9">
+	<prescription type="service" package="com.baidu.input" sender="any" class="com.baidu.megapp.proxy.service.IntentServiceProxy9">
  	</prescription>
-	<prescription type="service" package="com.baidu.input" class="com.baidu.input.ime.front.note.NoteService">
+	<prescription type="service" package="com.baidu.input" sender="any" class="com.baidu.input.ime.front.note.NoteService">
  	</prescription>
-	<prescription type="service" package="com.baidu.input" class="com.baidu.plugin.PluginInterfaceService">
+	<prescription type="service" package="com.baidu.input" sender="any" class="com.baidu.plugin.PluginInterfaceService">
  	</prescription>
-	<prescription type="service" package="com.baidu.input" class="com.baidu.plugin.PluginManagerService">
+	<prescription type="service" package="com.baidu.input" sender="any" class="com.baidu.plugin.PluginManagerService">
  	</prescription>
-	<prescription type="service" package="com.baidu.input" class="com.baidu.input.ime.front.clipboard.RecordService">
+	<prescription type="service" package="com.baidu.input" sender="any" class="com.baidu.input.ime.front.clipboard.RecordService">
  	</prescription>
-	<prescription type="service" package="com.baidu.input" class="com.baidu.megapp.proxy.service.ServiceProxy1">
+	<prescription type="service" package="com.baidu.input" sender="any" class="com.baidu.megapp.proxy.service.ServiceProxy1">
  	</prescription>
-	<prescription type="service" package="com.baidu.input" class="com.baidu.megapp.proxy.service.ServiceProxy10">
+	<prescription type="service" package="com.baidu.input" sender="any" class="com.baidu.megapp.proxy.service.ServiceProxy10">
  	</prescription>
-	<prescription type="service" package="com.baidu.input" class="com.baidu.megapp.proxy.service.ServiceProxy2">
+	<prescription type="service" package="com.baidu.input" sender="any" class="com.baidu.megapp.proxy.service.ServiceProxy2">
  	</prescription>
-	<prescription type="service" package="com.baidu.input" class="com.baidu.megapp.proxy.service.ServiceProxy3">
+	<prescription type="service" package="com.baidu.input" sender="any" class="com.baidu.megapp.proxy.service.ServiceProxy3">
  	</prescription>
-	<prescription type="service" package="com.baidu.input" class="com.baidu.megapp.proxy.service.ServiceProxy4">
+	<prescription type="service" package="com.baidu.input" sender="any" class="com.baidu.megapp.proxy.service.ServiceProxy4">
  	</prescription>
-	<prescription type="service" package="com.baidu.input" class="com.baidu.megapp.proxy.service.ServiceProxy5">
+	<prescription type="service" package="com.baidu.input" sender="any" class="com.baidu.megapp.proxy.service.ServiceProxy5">
  	</prescription>
-	<prescription type="service" package="com.baidu.input" class="com.baidu.megapp.proxy.service.ServiceProxy6">
+	<prescription type="service" package="com.baidu.input" sender="any" class="com.baidu.megapp.proxy.service.ServiceProxy6">
  	</prescription>
-	<prescription type="service" package="com.baidu.input" class="com.baidu.megapp.proxy.service.ServiceProxy7">
+	<prescription type="service" package="com.baidu.input" sender="any" class="com.baidu.megapp.proxy.service.ServiceProxy7">
  	</prescription>
-	<prescription type="service" package="com.baidu.input" class="com.baidu.megapp.proxy.service.ServiceProxy8">
+	<prescription type="service" package="com.baidu.input" sender="any" class="com.baidu.megapp.proxy.service.ServiceProxy8">
  	</prescription>
-	<prescription type="service" package="com.baidu.input" class="com.baidu.megapp.proxy.service.ServiceProxy9">
+	<prescription type="service" package="com.baidu.input" sender="any" class="com.baidu.megapp.proxy.service.ServiceProxy9">
  	</prescription>
-	<prescription type="service" package="com.baidu.input" class="com.baidu.sapi2.share.ShareService">
+	<prescription type="service" package="com.baidu.input" sender="any" class="com.baidu.sapi2.share.ShareService">
  	</prescription>
-	<prescription type="service" package="com.baidu.input" class="com.tencent.tinker.lib.service.TinkerPatchService">
+	<prescription type="service" package="com.baidu.input" sender="any" class="com.tencent.tinker.lib.service.TinkerPatchService">
  	</prescription>
-	<prescription type="service" package="com.baidu.input" class="com.tencent.tinker.lib.service.TinkerPatchService$InnerService">
+	<prescription type="service" package="com.baidu.input" sender="any" class="com.tencent.tinker.lib.service.TinkerPatchService$InnerService">
  	</prescription>
-	<prescription type="service" package="com.baidu.input" class="com.baidu.speech.VoiceRecognitionService">
+	<prescription type="service" package="com.baidu.input" sender="any" class="com.baidu.speech.VoiceRecognitionService">
  	</prescription>
-	<prescription type="broadcast" package="com.baidu.input" class="com.baidu.megapp.proxy.BroadcastReceiverProxy">
+	<prescription type="broadcast" package="com.baidu.input" sender="any" class="com.baidu.megapp.proxy.BroadcastReceiverProxy">
  	</prescription>
-	<prescription type="broadcast" package="com.baidu.input" class="com.baidu.android.commmon.utils.GalaxyProvider">
+	<prescription type="broadcast" package="com.baidu.input" sender="any" class="com.baidu.android.commmon.utils.GalaxyProvider">
  	</prescription>
-	<prescription type="broadcast" package="com.baidu.input" class="com.baidu.input.switchguide.InputMethodChangedReceiver">
+	<prescription type="broadcast" package="com.baidu.input" sender="any" class="com.baidu.input.switchguide.InputMethodChangedReceiver">
  	</prescription>
-	<prescription type="broadcast" package="com.baidu.input" class="com.baidu.sapi2.share.ShareReceiver">
+	<prescription type="broadcast" package="com.baidu.input" sender="any" class="com.baidu.sapi2.share.ShareReceiver">
  	</prescription>
 </prescriptions>
